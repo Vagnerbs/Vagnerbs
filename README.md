@@ -1,23 +1,26 @@
-### Olá! Eu sou o Vagner Bruno 🖐️
+# Olá! Eu sou o Vagner Bruno 🖐️
 
 ## Sobre mim
-Após longos anos atuando em outras áreas, decidi me dedicar à tecnologia, onde encontrei minha verdadeira vocação.<br/> 
-Hoje, me dedico aos estudos e ao que realmente me motiva, com uma vontade crescente de aprender a cada dia.
+Software Engineer I, Bacharel em Ciências da Computação, com foco em desenvolvimento de sistemas e aprendizado contínuo.  
+No LinkedIn compartilho minha trajetória profissional, aqui no GitHub você encontra meus estudos, projetos e cursos em andamento. 
 
-- Analista de Sistemas Jr - Bradesco
-- Tecnologias: Java, Cobol - Mainframe IBM, Microsserviços
-- Estudante de Ciências da Computação: Universidade Cruzeiro do Sul
-- Certificações Microsoft: AZ-900 , DP-900, AI-900, SC-900
+## Cursos e Aprendizado
+- Inglês – Cultura Inglesa (cursando)
+- Angular – Udemy (cursando)
+- Java Completo – Udemy (cursando)
+- Microsserviços com Spring Boot – Udemy (cursando)
+- COBOL – Curso completo (Udemy, concluído)
 
+## Acesse meu Linkedin
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vagner-silva87/)
 
 ## Tecnologias
 
-<div style="display: inline_block"><br/>
-    <img align="centrer" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="centrer" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img align="centrer" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img align="centrer" alt="html5" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-    <img align="centrer" alt="html5" src="https://img.shields.io/badge/Cobol-100000?style=for-the-badge&logo=github&logoColor=white" />
-    <img align="centrer" alt="html5" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<div style="display: inline_block">
+    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+    <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+    <img align="center" alt="Cobol" src="https://img.shields.io/badge/COBOL-004080?style=for-the-badge&logoColor=white" />
+    <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </div>
+
